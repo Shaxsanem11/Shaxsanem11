@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YourName
+# 👋 Hi, I'm Shaxsanem
 
 💻 Beginner Developer  
 🌱 Learning programming  
@@ -11,12 +11,8 @@
 - CSS
 - JavaScript  
 
----
+---uk
 
 ## 📊 My Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-
----
-
-## 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=USERNAME)
+![Stats](https://github-readme-stats.vercel.app/api?Shaxsanem11=streakak
+![Streak](https://streak-stats.demolab.com?user=Shaxsanem11)
